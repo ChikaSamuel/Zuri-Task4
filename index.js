@@ -5,6 +5,7 @@ const username = prompt("what is your name?")
 //welcome user
 console.log(`welcome ${username}`)
 console.log(`THIS IS A NUMBER GUESSING GAME`)
+console.log(`for each range given, a secret number has been chosen and you are required to guess it.`)
 
 //variables
 let Point = 0;
